@@ -1,4 +1,4 @@
 skittles
 ========
 
-Skittles!
+Skittles rule the world!
